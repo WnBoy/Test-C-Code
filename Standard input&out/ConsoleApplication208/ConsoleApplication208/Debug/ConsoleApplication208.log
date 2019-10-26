@@ -1,0 +1,4 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication208\consoleapplication208\源.c(12): warning C4013: “gets”未定义；假设外部返回 int
+  ConsoleApplication208.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication208\Debug\ConsoleApplication208.exe
+  ConsoleApplication208.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication208\Debug\ConsoleApplication208.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  源.c
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication28\consoleapplication28\源.c(7): warning C4013: “sou”未定义；假设外部返回 int
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication28\consoleapplication28\源.c(6): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication28\consoleapplication28\源.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication28\consoleapplication28\源.c(6): warning C4700: 使用了未初始化的局部变量“n”
+  ConsoleApplication28.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication28\Debug\ConsoleApplication28.exe
+  ConsoleApplication28.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication28\Debug\ConsoleApplication28.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\x函数画三角形\x函数画三角形\源.cpp(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  X函数画三角形.vcxproj -> I:\美气的哼\Standard input&out\X函数画三角形\Debug\X函数画三角形.exe
+  X函数画三角形.vcxproj -> I:\美气的哼\Standard input&out\X函数画三角形\Debug\X函数画三角形.pdb (Full PDB)

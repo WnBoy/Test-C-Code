@@ -1,0 +1,111 @@
+﻿  源.c
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(321): error C2061: 语法错误: 标识符“SOCKET”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(365): error C2059: 语法错误:“}”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(482): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(482): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(482): error C2371: “Vio”: 重定义；不同的基类型
+  c:\program files\mysql\mysql server 5.6\include\mysql_com.h(307): note: 参见“Vio”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(482): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(482): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(483): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(483): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(483): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(484): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(484): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(484): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(485): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(485): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(485): error C2371: “my_bool”: 重定义；不同的基类型
+  c:\program files\mysql\mysql server 5.6\include\mysql.h(52): note: 参见“my_bool”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(485): error C2146: 语法错误: 缺少“;”(在标识符“check_buffer”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(485): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): warning C4142: "size_t": 类型的良性重定义
+  f:\新建文件夹\vc\include\vcruntime.h(198): note: 参见“size_t”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): error C2370: “size_t”: 重定义；不同的存储类
+  f:\新建文件夹\vc\include\vcruntime.h(198): note: 参见“size_t”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): error C2146: 语法错误: 缺少“;”(在标识符“length”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(486): warning C4142: "length": 类型的良性重定义
+  c:\program files\mysql\mysql server 5.6\include\mysql_com.h(327): note: 参见“length”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(487): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(487): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(487): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(488): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(488): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(488): error C2059: 语法错误:“类型”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(488): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(489): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(489): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(489): error C2059: 语法错误:“类型”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(491): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(492): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(492): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(492): error C2059: 语法错误:“类型”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(492): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(493): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(493): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql_com.h(493): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(271): error C2061: 语法错误: 标识符“NET”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(296): error C2365: “scramble”: 重定义；以前的定义是“函数”
+  c:\program files\mysql\mysql server 5.6\include\mysql_com.h(571): note: 参见“scramble”的声明
+c:\program files\mysql\mysql server 5.6\include\mysql.h(298): error C2040: “unused2”:“void *”与“my_bool”的间接寻址级别不同
+c:\program files\mysql\mysql server 5.6\include\mysql.h(298): error C2040: “unused3”:“void *”与“my_bool”的间接寻址级别不同
+c:\program files\mysql\mysql server 5.6\include\mysql.h(298): error C2040: “unused4”:“void *”与“my_bool”的间接寻址级别不同
+c:\program files\mysql\mysql server 5.6\include\mysql.h(298): error C2040: “unused5”:“void *”与“my_bool”的间接寻址级别不同
+c:\program files\mysql\mysql server 5.6\include\mysql.h(311): error C2059: 语法错误:“}”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(320): error C2061: 语法错误: 标识符“MYSQL”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(330): error C2059: 语法错误:“}”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(386): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(386): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(386): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(387): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(387): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(387): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(388): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(388): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(388): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(389): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(389): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(390): error C2059: 语法错误:“类型”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(390): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(391): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(391): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(391): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(392): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(392): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(392): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(393): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(393): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(393): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(395): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(395): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(395): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(396): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(396): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(396): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(397): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(397): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(397): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(398): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(398): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(398): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(399): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(399): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(399): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(400): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(400): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(400): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(401): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(401): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(401): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(402): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(402): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(402): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(403): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(403): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(403): error C2059: 语法错误:“)”
+c:\program files\mysql\mysql server 5.6\include\mysql.h(404): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(404): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+c:\program files\mysql\mysql server 5.6\include\mysql.h(404): fatal error C1003: 错误计数超过 100；正在停止编译

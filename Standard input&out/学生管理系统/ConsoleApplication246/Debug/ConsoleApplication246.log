@@ -1,0 +1,20 @@
+﻿  list.c
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(199): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(201): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(210): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\学生管理系统\consoleapplication246\list.c(233): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication246.vcxproj -> I:\美气的哼\Standard input&out\学生管理系统\Debug\ConsoleApplication246.exe
+  ConsoleApplication246.vcxproj -> I:\美气的哼\Standard input&out\学生管理系统\Debug\ConsoleApplication246.pdb (Full PDB)

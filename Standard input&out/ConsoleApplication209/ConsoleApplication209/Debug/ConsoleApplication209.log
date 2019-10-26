@@ -1,0 +1,5 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication209\consoleapplication209\源.c(8): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication209\consoleapplication209\源.c(37): warning C4047: “==”:“int”与“char *”的间接级别不同
+  ConsoleApplication209.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication209\Debug\ConsoleApplication209.exe
+  ConsoleApplication209.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication209\Debug\ConsoleApplication209.pdb (Full PDB)

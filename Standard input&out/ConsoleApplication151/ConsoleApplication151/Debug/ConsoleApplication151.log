@@ -1,0 +1,8 @@
+﻿  pe12-2a.c
+i:\美气的哼\standard input&out\consoleapplication151\consoleapplication151\pe12-2a.c(5): warning C4042: “m”: 有坏的存储类
+i:\美气的哼\standard input&out\consoleapplication151\consoleapplication151\pe12-2a.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication151\consoleapplication151\pe12-2a.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication151.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication151\Debug\ConsoleApplication151.exe
+  ConsoleApplication151.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication151\Debug\ConsoleApplication151.pdb (Full PDB)

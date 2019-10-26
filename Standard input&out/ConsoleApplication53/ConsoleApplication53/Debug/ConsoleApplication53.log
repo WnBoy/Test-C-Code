@@ -1,0 +1,6 @@
+﻿  源.c
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication53\consoleapplication53\源.c(8): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication53\consoleapplication53\源.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication53.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication53\Debug\ConsoleApplication53.exe
+  ConsoleApplication53.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication53\Debug\ConsoleApplication53.pdb (Full PDB)

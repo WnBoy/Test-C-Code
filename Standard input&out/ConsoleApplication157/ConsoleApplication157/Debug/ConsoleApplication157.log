@@ -1,0 +1,7 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication157\consoleapplication157\源.c(20): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication157\consoleapplication157\源.c(20): warning C4047: “!=”:“int”与“void *”的间接级别不同
+i:\美气的哼\standard input&out\consoleapplication157\consoleapplication157\源.c(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  ConsoleApplication157.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication157\Debug\ConsoleApplication157.exe
+  ConsoleApplication157.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication157\Debug\ConsoleApplication157.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\consoleapplication251\consoleapplication251\源.cpp(11): warning C4101: “row”: 未引用的局部变量
+i:\美气的哼\standard input&out\consoleapplication251\consoleapplication251\源.cpp(10): warning C4101: “res”: 未引用的局部变量
+i:\美气的哼\standard input&out\consoleapplication251\consoleapplication251\源.cpp(13): warning C4101: “r”: 未引用的局部变量
+源.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，该符号在函数 _wmain 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 _wmain 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 _wmain 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _mysql_real_query@12，该符号在函数 _wmain 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 _wmain 中被引用
+C:\Program Files\MySQL\MySQL Server 5.6\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+I:\美气的哼\Standard input&out\ConsoleApplication251\Debug\ConsoleApplication251.exe : fatal error LNK1120: 5 个无法解析的外部命令

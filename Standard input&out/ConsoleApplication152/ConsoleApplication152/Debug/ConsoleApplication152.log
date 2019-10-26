@@ -1,0 +1,9 @@
+﻿  main.c
+i:\美气的哼\standard input&out\consoleapplication152\consoleapplication152\main.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication152\consoleapplication152\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication152\consoleapplication152\main.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication152.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication152\Debug\ConsoleApplication152.exe
+  ConsoleApplication152.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication152\Debug\ConsoleApplication152.pdb (Full PDB)

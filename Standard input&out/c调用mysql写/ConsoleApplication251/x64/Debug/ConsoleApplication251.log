@@ -1,0 +1,8 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\c调用mysql写\consoleapplication251\源.cpp(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+i:\美气的哼\standard input&out\c调用mysql写\consoleapplication251\源.cpp(11): warning C4101: “row”: 未引用的局部变量
+i:\美气的哼\standard input&out\c调用mysql写\consoleapplication251\源.cpp(10): warning C4101: “res”: 未引用的局部变量
+i:\美气的哼\standard input&out\c调用mysql写\consoleapplication251\源.cpp(15): warning C4101: “r”: 未引用的局部变量
+  ConsoleApplication251.vcxproj -> I:\美气的哼\Standard input&out\c调用mysql写\x64\Debug\ConsoleApplication251.exe
+  ConsoleApplication251.vcxproj -> I:\美气的哼\Standard input&out\c调用mysql写\x64\Debug\ConsoleApplication251.pdb (Full PDB)

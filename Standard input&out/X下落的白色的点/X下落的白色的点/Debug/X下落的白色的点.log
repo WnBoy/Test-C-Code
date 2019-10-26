@@ -1,0 +1,7 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\x下落的白色的点\x下落的白色的点\源.cpp(23): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+i:\美气的哼\standard input&out\x下落的白色的点\x下落的白色的点\源.cpp(37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  X下落的白色的点.vcxproj -> I:\美气的哼\Standard input&out\X下落的白色的点\Debug\X下落的白色的点.exe
+  X下落的白色的点.vcxproj -> I:\美气的哼\Standard input&out\X下落的白色的点\Debug\X下落的白色的点.pdb (Full PDB)

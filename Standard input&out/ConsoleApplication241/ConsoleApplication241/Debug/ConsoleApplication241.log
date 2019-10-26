@@ -1,0 +1,29 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(158): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+  f:\新建文件夹\vc\include\easyx.h(235): note: 可能是“void outtextxy(int,int,TCHAR)”
+  f:\新建文件夹\vc\include\easyx.h(234): note: 或  “void outtextxy(int,int,LPCTSTR)”
+  i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(158): note: 尝试匹配参数列表“(int, int, const char [11])”时
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(159): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+  f:\新建文件夹\vc\include\easyx.h(235): note: 可能是“void outtextxy(int,int,TCHAR)”
+  f:\新建文件夹\vc\include\easyx.h(234): note: 或  “void outtextxy(int,int,LPCTSTR)”
+  i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(159): note: 尝试匹配参数列表“(int, int, char [10])”时
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(150): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(151): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(153): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(154): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(155): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(167): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+  f:\新建文件夹\vc\include\easyx.h(235): note: 可能是“void outtextxy(int,int,TCHAR)”
+  f:\新建文件夹\vc\include\easyx.h(234): note: 或  “void outtextxy(int,int,LPCTSTR)”
+  i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(167): note: 尝试匹配参数列表“(int, int, const char [5])”时
+i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(169): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+  f:\新建文件夹\vc\include\easyx.h(235): note: 可能是“void outtextxy(int,int,TCHAR)”
+  f:\新建文件夹\vc\include\easyx.h(234): note: 或  “void outtextxy(int,int,LPCTSTR)”
+  i:\美气的哼\standard input&out\consoleapplication241\consoleapplication241\源.cpp(169): note: 尝试匹配参数列表“(int, int, const char [5])”时

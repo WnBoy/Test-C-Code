@@ -1,0 +1,7 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\x方格\x方格\源.cpp(36): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+i:\美气的哼\standard input&out\x方格\x方格\源.cpp(39): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  X方格.vcxproj -> I:\美气的哼\Standard input&out\X方格\Debug\X方格.exe
+  X方格.vcxproj -> I:\美气的哼\Standard input&out\X方格\Debug\X方格.pdb (Full PDB)

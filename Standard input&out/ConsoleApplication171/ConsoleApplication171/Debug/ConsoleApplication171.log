@@ -1,0 +1,2 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\consoleapplication171\consoleapplication171\源.cpp(11): error C3867: “Sales_item::isbn”: 非标准语法；请使用 "&" 来创建指向成员的指针

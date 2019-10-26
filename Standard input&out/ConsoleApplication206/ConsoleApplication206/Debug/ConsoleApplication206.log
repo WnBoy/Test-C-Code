@@ -1,0 +1,5 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication206\consoleapplication206\源.c(13): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication206\consoleapplication206\源.c(22): warning C4028: 形参 2 与声明不同
+  ConsoleApplication206.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication206\Debug\ConsoleApplication206.exe
+  ConsoleApplication206.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication206\Debug\ConsoleApplication206.pdb (Full PDB)

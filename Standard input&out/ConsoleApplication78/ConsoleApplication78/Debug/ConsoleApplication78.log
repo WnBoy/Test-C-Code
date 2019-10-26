@@ -1,0 +1,14 @@
+﻿  源.c
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(11): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(33): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(33): warning C4024: “fputs”: 形参和实参 1 的类型不同
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication78\consoleapplication78\源.c(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  ConsoleApplication78.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication78\Debug\ConsoleApplication78.exe
+  ConsoleApplication78.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication78\Debug\ConsoleApplication78.pdb (Full PDB)

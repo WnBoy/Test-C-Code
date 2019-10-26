@@ -1,0 +1,12 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(3): warning C4028: 形参 2 与声明不同
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(3): warning C4028: 形参 3 与声明不同
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(3): warning C4273: “strncpy”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的前一个定义
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(11): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication207\consoleapplication207\源.c(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  ConsoleApplication207.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication207\Debug\ConsoleApplication207.exe
+  ConsoleApplication207.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication207\Debug\ConsoleApplication207.pdb (Full PDB)

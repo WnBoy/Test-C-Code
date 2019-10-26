@@ -1,0 +1,4 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication185\consoleapplication185\源.c(8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication185.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication185\Debug\ConsoleApplication185.exe
+  ConsoleApplication185.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication185\Debug\ConsoleApplication185.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  源.c
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication86\consoleapplication86\源.c(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  ConsoleApplication86.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication86\Debug\ConsoleApplication86.exe
+  ConsoleApplication86.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication86\Debug\ConsoleApplication86.pdb (Full PDB)

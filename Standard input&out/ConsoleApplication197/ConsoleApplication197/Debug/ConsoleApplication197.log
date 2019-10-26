@@ -1,0 +1,5 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication197\consoleapplication197\源.c(36): warning C4033: “copy_arr”必须返回值
+i:\美气的哼\standard input&out\consoleapplication197\consoleapplication197\源.c(44): warning C4033: “copy_prr”必须返回值
+  ConsoleApplication197.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication197\Debug\ConsoleApplication197.exe
+  ConsoleApplication197.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication197\Debug\ConsoleApplication197.pdb (Full PDB)

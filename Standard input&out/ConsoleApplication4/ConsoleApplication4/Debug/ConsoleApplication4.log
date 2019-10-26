@@ -1,0 +1,6 @@
+﻿  6源.c
+c:\users\lenovo\desktop\美气的哼\consoleapplication4\consoleapplication4\6源.c(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+6源.obj : error LNK2005: _main 已经在 2源.obj 中定义
+源.obj : error LNK2005: _main 已经在 2源.obj 中定义
+C:\Users\lenovo\Desktop\美气的哼\ConsoleApplication4\Debug\ConsoleApplication4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

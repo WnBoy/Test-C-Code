@@ -1,0 +1,8 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication223\consoleapplication223\源.c(11): warning C4047: “=”:“FILE *”与“int”的间接级别不同
+i:\美气的哼\standard input&out\consoleapplication223\consoleapplication223\源.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication223\consoleapplication223\源.c(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  ConsoleApplication223.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication223\Debug\ConsoleApplication223.exe
+  ConsoleApplication223.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication223\Debug\ConsoleApplication223.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication146\consoleapplication146\源.c(11): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication146\consoleapplication146\源.c(20): warning C4101: “i”: 未引用的局部变量
+  ConsoleApplication146.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication146\Debug\ConsoleApplication146.exe
+  ConsoleApplication146.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication146\Debug\ConsoleApplication146.pdb (Full PDB)

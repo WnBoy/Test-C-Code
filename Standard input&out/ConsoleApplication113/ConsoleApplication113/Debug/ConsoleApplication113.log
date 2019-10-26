@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication113\consoleapplication113\源.cpp(13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  ConsoleApplication113.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication113\Debug\ConsoleApplication113.exe
+  ConsoleApplication113.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication113\Debug\ConsoleApplication113.pdb (Full PDB)

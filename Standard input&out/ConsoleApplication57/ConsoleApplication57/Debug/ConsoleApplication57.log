@@ -1,0 +1,15 @@
+﻿  源.c
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(17): warning C4133: “=”: 从“void (__cdecl *)(float)”到“float (__cdecl *)(float)”的类型不兼容
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(20): warning C4133: “=”: 从“void (__cdecl *)(float)”到“float (__cdecl *)(float)”的类型不兼容
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(23): warning C4133: “=”: 从“void (__cdecl *)(float)”到“float (__cdecl *)(float)”的类型不兼容
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(46): warning C4098: “fsin”:“void”函数返回值
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(50): warning C4098: “fcos”:“void”函数返回值
+c:\users\lenovo\desktop\美气的哼\standard input&out\consoleapplication57\consoleapplication57\源.c(54): warning C4098: “fexp”:“void”函数返回值
+  ConsoleApplication57.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication57\Debug\ConsoleApplication57.exe
+  ConsoleApplication57.vcxproj -> C:\Users\lenovo\Desktop\美气的哼\Standard input&out\ConsoleApplication57\Debug\ConsoleApplication57.pdb (Full PDB)

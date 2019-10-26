@@ -1,0 +1,8 @@
+﻿  源.cpp
+i:\美气的哼\standard input&out\consoleapplication179\consoleapplication179\源.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+i:\美气的哼\standard input&out\consoleapplication179\consoleapplication179\源.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+i:\美气的哼\standard input&out\consoleapplication179\consoleapplication179\源.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication179.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication179\Debug\ConsoleApplication179.exe
+  ConsoleApplication179.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication179\Debug\ConsoleApplication179.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication253\consoleapplication253\源.c(42): warning C4700: 使用了未初始化的局部变量“i”
+  ConsoleApplication253.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication253\Debug\ConsoleApplication253.exe
+  ConsoleApplication253.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication253\Debug\ConsoleApplication253.pdb (Full PDB)

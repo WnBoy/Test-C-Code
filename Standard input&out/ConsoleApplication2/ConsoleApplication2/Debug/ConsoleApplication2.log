@@ -1,0 +1,2 @@
+﻿源.obj : error LNK2005: _main 已经在 1源.obj 中定义
+C:\Users\lenovo\Desktop\美气的哼\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

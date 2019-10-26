@@ -1,0 +1,6 @@
+﻿  源.c
+i:\美气的哼\standard input&out\consoleapplication215\consoleapplication215\源.c(10): warning C4013: “gets”未定义；假设外部返回 int
+i:\美气的哼\standard input&out\consoleapplication215\consoleapplication215\源.c(10): warning C4047: “!=”:“int”与“void *”的间接级别不同
+i:\美气的哼\standard input&out\consoleapplication215\consoleapplication215\源.c(23): warning C4700: 使用了未初始化的局部变量“i”
+  ConsoleApplication215.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication215\Debug\ConsoleApplication215.exe
+  ConsoleApplication215.vcxproj -> I:\美气的哼\Standard input&out\ConsoleApplication215\Debug\ConsoleApplication215.pdb (Full PDB)
